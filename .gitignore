@@ -1,2 +1,4 @@
 node_modules
-Need other changes
+.DS_Store
+.tmp
+npm-debug.log
